@@ -1,0 +1,5 @@
+{
+  "name": "Poupança 10K",
+  "description": "Um aplicativo de planejamento financeiro baseado na técnica de poupança progressiva para casais, permitindo rastrear o progresso mensal rumo ao objetivo de R$ 10.000.",
+  "requestFramePermissions": []
+}
